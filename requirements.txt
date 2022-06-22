@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+numpy
+pandas
+tqdm
+sklearn
+onnxruntime
+skl2onnx
+jupyterlab
+plotly-express
