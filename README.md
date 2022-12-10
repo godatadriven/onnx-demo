@@ -4,7 +4,7 @@ An introduction to ONNX! Convert your ML models to an agnostic format and take a
 ## Demo
 See:
 
-[`onnx-demo.ipynb`](./onxx-demo.ipynb)
+[`onnx-demo.ipynb`](https://github.com/godatadriven/onnx-demo/blob/main/onnx-demo.ipynb)
 
 ✨
 
